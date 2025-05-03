@@ -30,16 +30,17 @@ This project uses Natural Language Processing (NLP) and Machine Learning to dete
 ## 📁 Project Structure
 emotion-detection-project/
 ├── data/
-│ └── raw/
-│ └── training.csv
+│   └── raw/
+│       └── training.csv
 ├── models/
-│ ├── emotion_model.pkl
-│ └── vectorizer.pkl
+│   ├── emotion_model.pkl
+│   └── vectorizer.pkl
 ├── src/
-│ ├── preprocessing.py
-│ ├── train_model.py
-│ └── predict.py
+│   ├── preprocessing.py
+│   ├── train_model.py
+│   └── predict.py
 └── README.md
+
 
 ---
 
